@@ -1,0 +1,29 @@
+
+<Version: 1.1>
+package.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/package.json
+/data/Map002.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/Map002.json
+/data/Map009.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/Map009.json
+/data/CommonEvents.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/CommonEvents.json
+/data/Actors.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/Actors.json
+/data/Tilesets.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/Tilesets.json
+/data/System.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/System.json
+/data/MapInfos.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/MapInfos.json
+/data/config.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/config.json
+/js/main.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/main.js
+/js/plugins.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/plugins.js
+/js/rpg_core.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/rpg_core.js
+/js/rpg_managers.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/rpg_managers.js
+/js/rpg_objects.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/rpg_objects.js
+/js/rpg_scenes.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/rpg_scenes.js
+/js/rpg_sprites.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/rpg_sprites.js
+/js/rpg_windows.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/rpg_windows.js
+/js/plugins/MOG_X_MoreHudFaces.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/MOG_X_MoreHudFaces.js
+/js/plugins/MOG_PartyHud.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/MOG_PartyHud.js
+/js/plugins/MOG_ActorHud.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/MOG_ActorHud.js
+/js/plugins/MOG_BattleHud.js https://raw.githubusercontent.com/felipereira97/Version1.01/master/MOG_BattleHud.js
+/img/partyhud/Face_4_m.png https://github.com/felipereira97/Version1.01/raw/master/Face_4_m.png
+/img/partyhud/Face_4_f.png https://github.com/felipereira97/Version1.01/raw/master/Face_4_f.png
+/img/actorhud/Face_4_f.png https://github.com/felipereira97/Version1.01/raw/master/AFace_4_f.png
+/img/actorhud/Face_4_m.png https://github.com/felipereira97/Version1.01/raw/master/AFace_4_m.png
+/patch/Notas%20de%20Atualização%20-%20Alpha%201.01.txt https://raw.githubusercontent.com/felipereira97/Version1.01/master/Notas%20de%20Atualização%20-%20Alpha%201.01.txt
+<End of Version>
