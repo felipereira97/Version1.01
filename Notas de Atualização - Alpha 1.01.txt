@@ -1,0 +1,12 @@
+Notas de atualização - Alpha 1.01
+- Corrigidos bugs visuais simples na Vila das Bétulas
+- Corrigido um bug em que o som de fundo da cena inicial da história continuava após seu término
+- Agora as imagens corretas aparecerão para os protagonistas homem e mulher na interface do jogo
+- Corrigido um bug em que as escolhas não apareciam da forma correta.
+
+Bugs e configurações ruins das quais tempos conhecimento:
+- Entrar e sair do menu dentro do jogo tem um delay grande, além de causar bugs visuais, como alteração do zoom.
+- Alguns recursos visuais e de áudio não estão funcionando como esperávamos.
+- Ao ativar a função "Sempre correr" no menu, os efeitos visuais de pegadas não funcionam como o esperado.
+- Ainda não foi possível implementar com segurança um menu de configurações avançadas.
+- Outros bugs, que podemos listar mais a frente.
